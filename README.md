@@ -7,7 +7,6 @@ This is a basic repo with simple implementation of Multiple API Gateway with map
 2) Download the dependecies: ```npm install```
 3) Run the Project: ```npm start```
 
---
 
 ##Test the API Gateway
 
